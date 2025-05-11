@@ -30,9 +30,9 @@ Backend Developer & Data Enthusiast – building data-driven systems with Node.j
 
 ### 🌱 **Current Focus:**
 
-- Building a cloud-based data pipeline using **AWS Lambda, S3, and DynamoDB**
-- Developing a **user-interactive frontend** for Heritage Explorer, integrating data visualizations and site management  
-- Expanding EchoLens to handle **dynamic user inputs**, refining its UI for a more intuitive analysis experience  
+- Building a cloud-based data pipeline for **Alere**, a health analytics platform, implementing AWS Lambda, S3, and DynamoDB to streamline data ingestion and processing  
+- Developing feedback analysis and sentiment clustering for **EchoLens**, an AI-powered user insights platform, focusing on backend data processing and interactive visualizations  
+- Designing and implementing data-driven user interfaces for **Heritage Explorer**, a digital asset management tool, integrating data visualization and real-time user feedback
 
 ---
 
